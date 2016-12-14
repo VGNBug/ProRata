@@ -1,0 +1,6 @@
+[submodule "ProRata-Server"]
+	path = ProRata-Server
+	url = https://github.com/VGNbug/ProRata-Server.git
+[submodule "ProRata-Ionic"]
+	path = ProRata-Ionic
+	url = https://github.com/VGNbug/ProRata-Ionic.git
